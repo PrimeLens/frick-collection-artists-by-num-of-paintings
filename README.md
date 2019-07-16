@@ -6,5 +6,6 @@ dn = display name<br/>
 v = volume
 
 note:<br/>
-there are 3 Vermeers including the painting that inspired the title of girl interrupted<br/>
-there is a pencil drawing done by William Blake the poet
+in the collection there are 3 Vermeers including the painting that inspired the title of girl interrupted<br/>
+there is a pencil drawing done by William Blake the poet<br/>
+eighteen Rembrandts and there is also one Renoir, one Monet, one Anton Mauve
